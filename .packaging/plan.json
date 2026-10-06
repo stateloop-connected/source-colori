@@ -1,0 +1,14 @@
+{
+  "build_script": "vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "willybcode/colori",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "a3908b3b8dda36c3b5a655006fd95f915ccea405"
+}
